@@ -146,5 +146,5 @@ The server side contains the WebSocket logic:
 Then open the application in your browser.
 
 # output:
-
+<img width="1893" height="903" alt="Image" src="https://github.com/user-attachments/assets/3268d5f3-9150-416b-8d0a-ef8dc7cbc9da" />
 
