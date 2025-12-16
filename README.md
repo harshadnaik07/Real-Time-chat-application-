@@ -145,3 +145,6 @@ The server side contains the WebSocket logic:
 
 Then open the application in your browser.
 
+# output:
+
+
