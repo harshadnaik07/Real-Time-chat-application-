@@ -133,13 +133,11 @@ The server side contains the WebSocket logic:
 
  # How to Run the Project
 ## Start the Server
-- cd Real-Time-chat-application-
 - cd server
 - npm install
 - node server.js
 
 ## Start the Client
-- cd Real-Time-chat-application-
 - cd client
 - npm install
 - npm run dev
